@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+To configure this project, first authorize the GitLab in the sign up page, then you're ready to go!
