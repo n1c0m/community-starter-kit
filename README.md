@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Yet another description for the repository, it's a kit for learning Git and Github. 
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* An easy introduction to the Github platform
+* The bot is here to help on the way 
+
 
 ## Getting started
 
